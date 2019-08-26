@@ -33,7 +33,7 @@ This repository contains all project files for python training project with REST
      Use following Endpoint to get articles list without authentication: 
      http://localhost:8000/api/articles/
      
-     Use following Endpoint to get article by id, put and delete. Append Authorization Header with the Bearer Token obtained from above      URL:
+     Use following Endpoint to get article by id, put and delete. Append Authorization Header with the Bearer Token obtained from above URL:
      http://localhost:8000/api/articles/id/
      
      Also, find following URLs for JWT tokens:
