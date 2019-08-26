@@ -14,7 +14,7 @@ This repository contains all project files for python training project with REST
       .\Scripts\activate
      
 # 3. Installation
-     pip install -r requirements.text
+     pip install -r requirements.txt
 
 # 4. Migrate
      - Create migrations for your models
