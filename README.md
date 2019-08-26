@@ -2,9 +2,10 @@
 This repository contains all project files for python training project with REST APIs on Django REST Framework
 
 # Requirements
-  Python
-  Django 
-  Django REST Framework
+  - Python
+  - Django 
+  - Django REST Framework
+  - Django REST Framework JWT 
 
 # 1. Create Virtual Environment
       pip install virtualenv
