@@ -23,7 +23,7 @@ This repository contains all project files for python training project with REST
      - Apply Migrations
        python manage.py migrate
 
-# 4. Usage
+# 5. Usage
      Use following Endpoint to access login view and obtain the JWT token: 
      http://localhost:8000/api/auth/login/
      
