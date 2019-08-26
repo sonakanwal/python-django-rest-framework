@@ -25,6 +25,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('article.urls')),
     path('api/', include('authentication.urls')),
+    path('api/', include('author.urls')),
     url('auth-jwt/', obtain_jwt_token),
     url('auth-jwt-refresh/', refresh_jwt_token),
     url('auth-jwt-verify/', verify_jwt_token),
