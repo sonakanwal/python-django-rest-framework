@@ -15,7 +15,14 @@ This repository contains all project files for python training project with REST
      
 # 3. Installation
      pip install -r requirements.text
+
+# 4. Migrate
+     - Create migrations for your models
+        python manage.py makemigrations
      
+     - Apply Migrations
+       python manage.py migrate
+
 # 4. Usage
      Use following Endpoint to access login view and obtain the JWT token: 
      http://localhost:8000/api/auth/login/
